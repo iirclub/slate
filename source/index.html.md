@@ -9,6 +9,10 @@ language_tabs: # must be one of https://git.io/vQNgJ
 
 toc_footers:
   - <a href='http://orameowtalk.elensdata.com/multi-demo/pages/SourMusicShare/SourMusicShare?work_id=6145629424aca972b95e3e79'>看图说话DEMO</a>
+  - <a href='https://github.com/crawlerclub/pysdk'>python sdk</a>
+  - <a href='https://github.com/crawlerclub/phpsdk'>php sdk</a>
+  - <a href='https://github.com/crawlerclub/javasdk'>java sdk</a>
+  - <a href='https://github.com/crawlerclub/gosdk'>golang sdk</a>
   - <a href='https://github.com/slatedocs/slate'>Documentation Powered by Slate</a>
 
 search: true
